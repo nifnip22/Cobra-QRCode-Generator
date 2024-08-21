@@ -13,5 +13,5 @@ Clone this repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/nifnip22/Cobra-QRCode-Generator.git
 cd Cobra-QRCode-Generator
-go mod tidy
+CobraQRCodeGenerator
 ```
